@@ -14,7 +14,7 @@ class FlowEx5
 			} else if ( score < 94)	{
 					grade += "-";
 			}
-		} else if  (score >= 80){	
+		}else if  (score >= 80){	
 			grade = "B";
 			if ( score >= 88) {
 				grade += "+";

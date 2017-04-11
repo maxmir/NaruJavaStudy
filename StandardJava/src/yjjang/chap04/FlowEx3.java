@@ -3,7 +3,7 @@ class FlowEx3
 { 
       public static void main(String[] args) 
       { 
-            int score = 45; 
+            int score = 80; 
             char grade =' ';  
 
             if (score >= 90) {          
