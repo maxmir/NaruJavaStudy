@@ -5,7 +5,7 @@
  */
 package jhKim.ch02;
 
-public class CharToCode {
+public class CharToCode_2_1 {
     public static void main(String... args) {
         char ch = 'A';
         int code = (int)ch;
